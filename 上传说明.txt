@@ -1,0 +1,1 @@
+上传步骤：1.打开 https://github.com/zzc11210034-cpu/blog  2.点击 Add file→Upload files  3.拖入 index.html 和 DEPLOY.md  4.填写 Initial commit  5.点击 Commit changes  完成后部署到 Cloudflare Pages: https://pages.cloudflare.com/
